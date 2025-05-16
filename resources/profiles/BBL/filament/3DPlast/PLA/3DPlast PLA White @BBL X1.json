@@ -3,7 +3,7 @@
     "name": "3DPlast PLA White X1",
     "inherits": "3DPlast PLA @base",
     "from": "system",
-    "setting_id": "GFSNLS08_02",
+    "setting_id": "GFS3DPLA17508WT",
     "instantiation": "true",
     "filament_extruder_variant": [
         "Direct Drive Standard"

@@ -1,9 +1,9 @@
 {
     "type": "filament",
-    "name": "3DPlast PLA Metalic A1",
+    "name": "3DPlast PLA Metalic Grey A1",
     "inherits": "3DPlast PLA @base",
     "from": "system",
-    "setting_id": "GFSNLS08_02",
+    "setting_id": "GFS3DPLA17508GMT_02",
     "instantiation": "true",
     "filament_flow_ratio": [
         "1.02"

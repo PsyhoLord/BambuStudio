@@ -2439,27 +2439,27 @@
         },
         {
             "name": "3DPlast PLA Green @BBL A1",
-            "sub_path": "filament/3DPlast/PLA/3DPlast PLA Black @BBL A1.json"
+            "sub_path": "filament/3DPlast/PLA/3DPlast PLA Green @BBL A1.json"
         },
         {
             "name": "3DPlast PLA Green @BBL X1",
-            "sub_path": "filament/3DPlast/PLA/3DPlast PLA Black @BBL X1.json"
+            "sub_path": "filament/3DPlast/PLA/3DPlast PLA Green @BBL X1.json"
         },
         {
             "name": "3DPlast PLA Grey @BBL A1",
-            "sub_path": "filament/3DPlast/PLA/3DPlast PLA Black @BBL A1.json"
+            "sub_path": "filament/3DPlast/PLA/3DPlast PLA Grey @BBL A1.json"
         },
         {
             "name": "3DPlast PLA Grey @BBL X1",
-            "sub_path": "filament/3DPlast/PLA/3DPlast PLA Black @BBL X1.json"
+            "sub_path": "filament/3DPlast/PLA/3DPlast PLA Grey @BBL X1.json"
         },
         {
-            "name": "3DPlast PLA Metalic @BBL A1",
-            "sub_path": "filament/3DPlast/PLA/3DPlast PLA Black @BBL A1.json"
+            "name": "3DPlast PLA Metalic Grey  @BBL A1",
+            "sub_path": "filament/3DPlast/PLA/3DPlast Metalic Grey @BBL A1.json"
         },
         {
-            "name": "3DPlast PLA Metalic @BBL X1",
-            "sub_path": "filament/3DPlast/PLA/3DPlast PLA Black @BBL X1.json"
+            "name": "3DPlast PLA Metalic Grey @BBL X1",
+            "sub_path": "filament/3DPlast/PLA/3DPlast Metalic Grey @BBL X1.json"
         },
         {
             "name": "3DPlast PLA White @BBL A1",

@@ -1,10 +1,10 @@
 {
     "type": "filament",
-    "name": "3DPlast PLA Marble @base",
+    "name": "3DPlast PLA @base",
     "inherits": "Generic PLA",
     "from": "system",
-    "filament_id": "GFSNL06",
-    "instantiation": "false",
+    "filament_id": "GFS3DPLA_PLA",
+    "instantiation": "true",
     "filament_extruder_variant": [
         "Direct Drive Standard"
     ],

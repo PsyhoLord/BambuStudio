@@ -3,7 +3,7 @@
     "name": "3DPlast PLA Green A1",
     "inherits": "3DPlast PLA @base",
     "from": "system",
-    "setting_id": "GFSNLS08_02",
+    "setting_id": "GFS3DPLA17508GRE_02",
     "instantiation": "true",
     "filament_flow_ratio": [
         "0.96"

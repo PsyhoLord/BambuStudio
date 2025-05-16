@@ -1,9 +1,9 @@
 {
     "type": "filament",
-    "name": "3DPlast PLA Metalic X1",
+    "name": "3DPlast PLA Metalic Grey X1",
     "inherits": "3DPlast PLA @base",
     "from": "system",
-    "setting_id": "GFSNLS08_02",
+    "setting_id": "GFS3DPLA17508GMT",
     "instantiation": "true",
     "filament_extruder_variant": [
         "Direct Drive Standard"
