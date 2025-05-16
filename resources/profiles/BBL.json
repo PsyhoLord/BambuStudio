@@ -2462,6 +2462,14 @@
             "sub_path": "filament/3DPlast/PLA/3DPlast PLA Black @BBL X1.json"
         },
         {
+            "name": "3DPlast PLA White @BBL A1",
+            "sub_path": "filament/3DPlast/PLA/3DPlast PLA White @BBL A1.json"
+        },
+        {
+            "name": "3DPlast PLA White @BBL X1",
+            "sub_path": "filament/3DPlast/PLA/3DPlast PLA White @BBL X1.json"
+        },
+        {
             "name": "Bambu TPU 95A @BBL X1C",
             "sub_path": "filament/Bambu TPU 95A @BBL X1C.json"
         },
