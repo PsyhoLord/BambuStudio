@@ -1,0 +1,21 @@
+{
+    "type": "filament",
+    "name": "3DPlast PLA Black A1",
+    "inherits": "3DPlast PLA @base",
+    "from": "system",
+    "setting_id": "GFSNLS08_02",
+    "instantiation": "true",
+    "filament_flow_ratio": [
+        "1.02"
+    ],
+    "compatible_printers": [
+        "Bambu Lab A1 0.2 nozzle",
+        "Bambu Lab A1 0.4 nozzle",
+        "Bambu Lab A1 0.6 nozzle",
+        "Bambu Lab A1 0.8 nozzle",
+        "Bambu Lab A1 mini 0.2 nozzle",
+        "Bambu Lab A1 mini 0.4 nozzle",
+        "Bambu Lab A1 mini 0.6 nozzle",
+        "Bambu Lab A1 mini 0.8 nozzle"
+    ]
+}

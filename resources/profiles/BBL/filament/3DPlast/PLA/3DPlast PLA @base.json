@@ -1,0 +1,17 @@
+{
+    "type": "filament",
+    "name": "3DPlast PLA Marble @base",
+    "inherits": "Generic PLA",
+    "from": "system",
+    "filament_id": "GFSNL06",
+    "instantiation": "false",
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
+    "filament_flow_ratio": [
+        "0.96"
+    ],
+    "filament_settings_id": [
+        "3DPlast PLA Grey Flow Rate Calibrated"
+    ]
+}
